@@ -1,5 +1,4 @@
 USE tienda;
-SHOW TABLES;
 
 SELECT AVG(salario) as Salario FROM puesto;
 SELECT COUNT(*) FROM articulo WHERE nombre LIKE '%Pasta%';
