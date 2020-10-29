@@ -1,5 +1,5 @@
 USE tienda;
-SHOW TABLES;
+
 SELECT * FROM articulo WHERE nombre LIKE '%Pasta%';
 SELECT * FROM articulo WHERE nombre LIKE '%Cannelloni%';
 SELECT * FROM articulo WHERE nombre LIKE '%-%';
