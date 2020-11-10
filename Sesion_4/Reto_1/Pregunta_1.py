@@ -1,5 +1,4 @@
-# Requires the PyMongo package.
-# https://api.mongodb.com/python/current
+#Fecha, nombre y texto de cada comentario.
 
 client = MongoClient('mongodb+srv://Encinas:Plch353p1@cursobedu.ftknr.mongodb.net/test?authSource=admin&replicaSet=atlas-1gv35t-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true')
 filter={}
